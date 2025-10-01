@@ -38,7 +38,7 @@ Ces exercices permettent de renforcer la compréhension des **pointeurs** et de 
 
 ---
 
-## 🏗️ Structures de données
+##  Structures de données
 
 ### Liste simplement chaînée circulaire
 ```c
@@ -46,4 +46,12 @@ typedef struct Node {
     int data;
     struct Node* next;
 } Node;
+
+## Compilation et Execution
+
+gcc Liste_Circulaire.c -o circ
+./circ
+
+gcc "INSERTION LISTE SIMPLEMENT CHAÎNÉ TRIÉ.c" -o trie
+./trie
 
