@@ -1,6 +1,6 @@
-# 📘 Projet : Listes Chaînées en C
+#  Projet : Listes Chaînées en C
 
-## 👤 Auteur
+##  Auteur
 - **Nom :** MBALLA YVES ELYSEE  
 - **Matricule :** 24G2879
 
