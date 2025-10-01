@@ -3,7 +3,7 @@
 - Matricule : 24G2349
 - Groupe : INF231_EC2
 
-# 📘 Projet : Listes Simples Chainees et Circulaire en C
+# Projet : Listes Simples Chainees et Circulaire en C
 Exercices attribués :
 - Ecrire une liste simplement chainees faisant l'insertion d'un element dans une liste triee
 - Ecrire une liste simplement chainees circulaire faisant l'ajout entete et fin dans une liste
