@@ -5,7 +5,7 @@
 - **Matricule :** 24G2879
 
 - **Nom :** NGINDJEL ONANA BENOIT AURION  
-- **Matricule :** 24F3839
+- **Matricule :** 24F2839
   
 - **Nom :** TANDJI NKWINGA RIDEL RONIS
 - **Matricule :** 24G2856
@@ -14,7 +14,7 @@
 - **Matricule :** 24G2349
   
 - **Nom :** MAFOGANG MBE JENNIE PRISCA
-- **Matricule :**24G2630 
+- **Matricule :** 24G2630 
 
 - **Nom :** FOUDA ZANGANA CHARLES GHISLAIN DONIVANE
 - **Matricule :** 24G2912
