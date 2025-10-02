@@ -23,6 +23,8 @@
 
 ##  Introduction
 Ce dépôt regroupe différents programmes en **langage C** illustrant l’utilisation des **listes chaînées** (simples, doublement chaînées, circulaires, avec insertion et suppression).  
+
+##  Principes
 Chaque projet met en avant une variante particulière des listes, permettant de comprendre les notions de :  
 - Maillons (**nœuds**)  
 - Pointeurs (`next`, `prev`)  
